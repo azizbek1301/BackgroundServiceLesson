@@ -1,0 +1,6 @@
+@BackgroundServiceLesson_HostAddress = http://localhost:5014
+
+GET {{BackgroundServiceLesson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
